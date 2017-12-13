@@ -1,6 +1,6 @@
 /*
- * 4 buttons are used for DigitalIns, 2 control the brightness up and down,
- * and the third and fourth switches patterns
+ * 2 buttons are used for DigitalIns
+ * the first and second switches patterns
  */
 
 #include "mbed.h"
